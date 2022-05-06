@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bass6c
-- 👀 I’m interested in machine learning, image processing and Data science in general.
+- 👀 I’m interested in machine learning, image processing and Computer vision
 - 🌱 I’m currently doing a Master degree in Applied Mathematics at Toulouse III Paul Sabatier University in FRANCE . 
 - 💞️ I’m also looking for an internship this year to validate my semester.
-- 📫 How to reach me by cmbcisse3@gmail.com or call me at 0766264518.
+- 📫 How to reach me by cmbcisse3@gmail.com 
 
 <!---
 bass6c/bass6c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
