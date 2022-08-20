@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bass6c
 - 👀 I’m interested in machine learning, image processing and Computer vision
 - 🌱 I’m currently doing a Master degree in Applied Mathematics at Toulouse III Paul Sabatier University in FRANCE . 
-- 💞️ I’m also looking for an internship this year to validate my semester.
+- 💞️ I’m also looking for an apprentiship this year to validate my master.
 - 📫 How to reach me by cmbcisse3@gmail.com 
 
 <!---
